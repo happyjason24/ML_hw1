@@ -1,5 +1,5 @@
 # ML_hw1_Result
-###要完整運作請執行_hw1.py_
+##要完整運作請執行_hw1.py_
 ## 1. Loss Curve
 ![loss](PIC/loss_curve.png)
 
