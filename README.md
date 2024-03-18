@@ -1,3 +1,4 @@
 # ML_hw1_Result
-plant_seedlings_classification
+
 ## 1. Loss Curve
+![loss](PIC/loss_curve.png)
