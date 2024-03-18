@@ -6,5 +6,5 @@
 ## 2. Acc Curve
 ![loss](PIC/acc_curve.png)
 
-## 3. Predict Result
+## 3. Resnet_50 Predict Result
 ![loss](PIC/test_result.png)
