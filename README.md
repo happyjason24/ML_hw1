@@ -10,5 +10,4 @@
 ## 3. Resnet_50 Predict Result
 ![loss](PIC/test_result.png)
 
-## 4. VGG16 Predict Result
-![loss](PIC/test_result2.png)
+
